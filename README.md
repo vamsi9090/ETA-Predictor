@@ -169,3 +169,5 @@ Edit
 ├── trip-duration-prediction.py
 ├── README.md
 ✍️ Authored by Amrutha Vamshi Goud
+🔗 [LinkedIn](https://www.linkedin.com/in/vamshi-a-b5b7692b9)  
+🔗 [GitHub](https://github.com/vamsi9090)
